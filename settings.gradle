@@ -1,2 +1,4 @@
 rootProject.name = 'studen-registration'
+include 'yaro-student-registration'
+include 'nil-student-registration'
 
